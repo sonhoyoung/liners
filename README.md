@@ -1,9 +1,14 @@
 #GitHub
 Checkout(local -> Android Studio)
+
 Commit(Android Studio -> local) 
+
 push(local -> github)
+
 pull(github->local)
-Branch 
+
+Branch
+
 merge 
 
 #Samples
