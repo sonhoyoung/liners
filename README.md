@@ -1,4 +1,6 @@
 # liners
 linersRepository
 
-commit test
+commit 
+push(local -> github)
+pull(github->local)
