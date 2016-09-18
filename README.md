@@ -7,9 +7,11 @@ push(local -> github)
 
 pull(github->local)
 
-Branch
+Branch(master branch ---(create 'editing' branch from master branch)---> master, editing branch)
 
-merge 
+merge (master, editing branch ---(merge)---> master branch)
+
+Refer : https://nolboo.kim/blog/2013/10/06/github-for-beginner/
 
 #Samples
 http://gov.seoul.go.kr/archives/67522
